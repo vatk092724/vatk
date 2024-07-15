@@ -1,0 +1,154 @@
+.box {
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  background-image: url(mt.jpg);
+  background-size: 100%;
+  height: 800px;
+  font-size: 60px;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+@media only screen and (max-width: 500px) {
+  .box{height:240px ;}
+}
+
+
+
+
+.box1 {
+  color: white;
+  font-size: 40px;
+  background-color: rgb(45, 45, 45);
+  padding: 90px;
+  text-align: left;
+}
+@media only screen and (max-width: 500px) {
+  .box3{height:250px ;}
+}
+
+
+.box2 {
+  text-transform: capitalize;
+
+  box-sizing: border-box;
+  font-variant: small-caps;
+  background-color: rgb(45, 45, 45);
+  font-size: 10px;
+  color: white;
+  text-align: center;
+  padding: 90px;
+}
+
+.box3 {
+  background-image: url(sport-1.jpg);
+  background-attachment: fixed;
+  color: rgb(45, 45, 45);
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border: 1px solid;
+  
+
+
+}
+.box31{
+  display: flex;
+  background-color:white ;
+  width:250px ;
+  height:40px ;
+  font-size:10px ;
+  padding:40px,60px ;
+  margin-top:150px ;
+  margin-left:80px;
+  border-radius:5px ;
+  color:black ;
+  border:1px solid  ;
+  text-transform: uppercase;
+
+}
+
+
+.box4 {
+  background-image: url(sport-2.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 400px;
+  font-size: 10px;
+  border:1px solid ;
+  position: relative;
+}
+.box41{
+  display: flex;
+  background-color:white ;
+  width:300px ;
+  height:40px ;
+  font-size:40px ;
+  padding:40px,60px ;
+  margin-top:150px ;
+  margin-left:60px;
+  border-radius:5px ;
+  color:black ;
+  border:1px solid  ;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+
+.box5 {
+  background-color: rgb(45, 45, 45);
+  color: white;
+  font-size: 20px;
+  padding: 100px;
+  height: 500px;
+}
+
+.box6 {
+  background: rgb(45, 45, 45);
+  color: white;
+  height: 300px;
+  padding: 100px;
+  font-size: 10px;
+}
+
+.box7 {
+  background-image: url(sport-3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  height: 800px;
+  border:1px solid black  ;
+}
+
+.box71 {
+  background-color: rgb(45, 45, 45);
+  color: white;
+  font-size: 10px;
+  padding: 80px;
+}
+.box72{  display: flex;
+  background-color:white ;
+  width:300px ;
+  height:40px ;
+  font-size:40px ;
+  padding:40px,60px ;
+  margin-top:150px ;
+  margin-left:60px;
+  border-radius:5px ;
+  color:black ;
+  border:1px solid  ;
+  text-transform: uppercase;
+  text-align: center;
+
+  
+}
+
+footer {
+  text-align: center;
+  background-color: grey;
+  background-size: 100%;
+  font-size: 20px;
+  height: 100px;
+}
